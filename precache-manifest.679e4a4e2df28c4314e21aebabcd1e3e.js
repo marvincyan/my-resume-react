@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/my-resume-react/static/js/runtime~main.15af348b.js"
   },
   {
-    "revision": "155df6abf0bc5f9859ce",
-    "url": "/my-resume-react/static/js/main.155df6ab.chunk.js"
+    "revision": "45854b4bab6fc93a6261",
+    "url": "/my-resume-react/static/js/main.45854b4b.chunk.js"
   },
   {
     "revision": "030598450471c14529bf",
     "url": "/my-resume-react/static/js/1.03059845.chunk.js"
   },
   {
-    "revision": "155df6abf0bc5f9859ce",
-    "url": "/my-resume-react/static/css/main.e5e46c23.chunk.css"
+    "revision": "45854b4bab6fc93a6261",
+    "url": "/my-resume-react/static/css/main.0f913dc2.chunk.css"
   },
   {
     "revision": "030598450471c14529bf",
     "url": "/my-resume-react/static/css/1.9193c180.chunk.css"
   },
   {
-    "revision": "d1a33ee0609771e3fb18e8ca0e17bada",
+    "revision": "fc06384ad3e9cb6bc019508ab5145664",
     "url": "/my-resume-react/index.html"
   }
 ];
