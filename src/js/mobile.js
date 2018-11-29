@@ -11,7 +11,7 @@
         left: '25%'
       });
     });
-    $("#mobileNavClose, li").click(function() {
+    $("#mobileNavClose, #mobileNav li").click(function() {
       var target = ($(this).data("target"));
 
       $(".collapse").hide();
