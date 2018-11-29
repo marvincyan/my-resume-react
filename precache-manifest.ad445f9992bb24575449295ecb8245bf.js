@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/my-resume-react/static/js/runtime~main.15af348b.js"
   },
   {
-    "revision": "b9019dbb4208c46d6809",
-    "url": "/my-resume-react/static/js/main.b9019dbb.chunk.js"
+    "revision": "464c86583cdb9a9bc367",
+    "url": "/my-resume-react/static/js/main.464c8658.chunk.js"
   },
   {
-    "revision": "5d43ee81bb20041da45f",
-    "url": "/my-resume-react/static/js/1.5d43ee81.chunk.js"
+    "revision": "030598450471c14529bf",
+    "url": "/my-resume-react/static/js/1.03059845.chunk.js"
   },
   {
-    "revision": "b9019dbb4208c46d6809",
-    "url": "/my-resume-react/static/css/main.b724f20d.chunk.css"
+    "revision": "464c86583cdb9a9bc367",
+    "url": "/my-resume-react/static/css/main.fe276596.chunk.css"
   },
   {
-    "revision": "5d43ee81bb20041da45f",
-    "url": "/my-resume-react/static/css/1.71c51428.chunk.css"
+    "revision": "030598450471c14529bf",
+    "url": "/my-resume-react/static/css/1.9193c180.chunk.css"
   },
   {
-    "revision": "43a359a50472076554e584aa94116dcf",
+    "revision": "136604d031715b84ed0c32fff5e5a9fd",
     "url": "/my-resume-react/index.html"
   }
 ];
