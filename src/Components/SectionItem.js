@@ -14,17 +14,17 @@ class SectionItem extends Component {
                                 <div id="contentContainer">
                                     <p className="title">Welcome to my corner of the interwebs...</p>
                                     <p>You are currently viewing this site coded in <a href="https://reactjs.org" target="_blank">Reactjs</a>. If you want to see the source code just <a href="https://github.com/marvincyan/my-resume-react" target="_blank">click here</a>.</p>
-                                    <p>If you want to see this site built on React/Redux: [<a href="http://www.marvinyan.com" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-react" target="_blank">source</a>].</p>
-                                    <p>If you want to see this site built on <a href="https://wordpress.org/" target="_blank">WordPress</a>: [<a href="http://www.marvinyan.com" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-react" target="_blank">source</a>].</p>
+                                    {/* <p>If you want to see this site built on React/Redux: [<a href="https://marvincyan.github.io/my-resume-react-redux/" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-react-redux" target="_blank">source</a>].</p> */}
+                                    <p>If you want to see this site built on <a href="https://wordpress.org/" target="_blank">WordPress</a>: [<a href="http://www.marvinyan.com" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-wordpress" target="_blank">source</a>].</p>
 
                                     <hr />
 
                                     <p className="title">A little something about me…</p>
                                     <p>Starting out as a Systems Administrator 20 some odd years ago, I made my way towards backend development and eventually frontend development where, in comparison, is what I enjoy the most. I am self-taught and love learning new languages to help companies achieve their goals.</p> 
                                     <p>I am currently teaching myself to code iOS apps in <a href="https://developer.apple.com/xcode/" target="_blank">Xcode/Swift</a>.</p>
-                                    <p>To give my brain a break from coding, I'll usually do some sketching or head out and do some street photography.<br />
-                                    Head on over to my <a href="https://www.instagram.com/eviefied/" target="_blank">Instagram@eviefied</a> if you want to see some of my sketchings.<br />
-                                    I do have a separate website for my photography called <a href="http://themarvinyanprojects.com" target="_blank">The Marvin Yan Projects</a>.</p>
+                                    <p>To give my brain a break from coding, I'll usually do some sketching or head out and do some street photography.</p>
+                                    <p>Head on over to my <a href="https://www.instagram.com/eviefied/" target="_blank">Instagram@eviefied</a> account if you want to see some of my sketchings.</p>
+                                    <p>I have a separate website for my photography called <a href="http://themarvinyanprojects.com" target="_blank">The Marvin Yan Projects</a> as well as a separate <a href="https://www.instagram.com/MarvinYanProjx/" target="_blank">Instagram@MarvinYanProjx</a> account.</p>
 
                                     <hr />
 
@@ -33,8 +33,8 @@ class SectionItem extends Component {
                                         <li><span>Photography</span></li>
                                         <li>
                                             <ul>
-                                                <li><span>Currently using:</span> Fuji XT-1, Fuji 23mm f2, Fuji 18-55mm</li>
-                                                <li><span>Would like to upgrade:</span> Fuji XE-3, Summilux 21mm f2</li>
+                                                <li><span>Currently using:</span> Fuji X-T1, Fuji 23mm f2, Fuji 18-55mm</li>
+                                                <li><span>Would like to upgrade:</span> Fuji X-E3, Summilux 21mm f2</li>
                                                 <li><span>Also using:</span> Nikon FM10, Nikkor 18-55mm, Fuji Instax 90</li>
                                             </ul>
                                         </li>
