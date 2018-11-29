@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import pdf from '../files/MarvinYanResume.pdf'
+import pdf from '../files/MarvinYanResumeNoRef.pdf'
 
 class VCard extends Component {
   render() {
