@@ -62,7 +62,7 @@ class App extends Component {
         },
         {
           id: 4,
-          date: 'Oct 2014 - Dec 2014',
+          date: 'Jul 2008 – Jul 2014',
           company: 'Oversee.net',
           title: 'Full Stack Developer',
           description: [
