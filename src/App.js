@@ -45,7 +45,7 @@ class App extends Component {
         {
           id: 2,
           date: 'May 2015 - Jul 2016',
-          company: 'SpiritClips at Hallmark',
+          company: 'SpiritClips by Hallmark',
           title: 'Senior Front End Developer',
           description: [
             "Implemented and translated PSD comps and wireframes into semantically correct web templates. Applied responsive and adaptive design principles. Coded necessary middle and sometimes backend requirements necessary for frontend."
@@ -54,6 +54,15 @@ class App extends Component {
         {
           id: 3,
           date: 'Oct 2014 - Dec 2014',
+          company: 'Starkey Hearing Foundation',
+          title: 'Frontend Web Developer',
+          description: [
+            "Short-term contract to help launch their website ListenCarefully.org. Helped with implementing frontend design and development on a WordPress CMS system. Aided with searching, installing and customizing WordPress plugins. Helped with bug discovery and fixing."
+          ]
+        },
+        {
+          id: 4,
+          date: 'Oct 2014 - Dec 2014',
           company: 'Oversee.net',
           title: 'Full Stack Developer',
           description: [
@@ -61,7 +70,7 @@ class App extends Component {
           ]
         },
         {
-          id: 4,
+          id: 5,
           date: 'Sep 2007 – Jan 2008',
           company: 'Griffith Park Media',
           title: '',
@@ -71,7 +80,7 @@ class App extends Component {
           ]
         },
         {
-          id: 5,
+          id: 6,
           date: 'Nov 2006 – Mar 2007',
           company: 'Fitnessblowout.com',
           title: 'Web Developer',
@@ -81,7 +90,7 @@ class App extends Component {
           ]
         },
         {
-          id: 6,
+          id: 7,
           date: 'Aug 2006 – Oct 2006',
           company: 'NBC Universal',
           title: 'Web Developer',
@@ -92,7 +101,7 @@ class App extends Component {
           ]
         },
         {
-          id: 7,
+          id: 8,
           date: 'Aug 2005 – Aug 2006',
           company: 'WPT Enterprises',
           title: 'Systems Engineer',
@@ -103,8 +112,8 @@ class App extends Component {
           ]
         },
         {
-          id: 8,
-          date: 'Jul 2006 – Jul 2005',
+          id: 9,
+          date: 'Jul 2005 – Jul 2006',
           company: 'ValueClick',
           title: 'Programmer and Network Administrator',
           description: [
