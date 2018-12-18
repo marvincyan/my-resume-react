@@ -13,8 +13,8 @@ class SectionItem extends Component {
                             <div className="col-12">
                                 <div id="contentContainer">
                                     <p className="title">Welcome to my corner of the interwebs...</p>
-                                    <p>You are currently viewing this site coded in <a href="https://reactjs.org" target="_blank">Reactjs</a>. If you want to see the source code just <a href="https://github.com/marvincyan/my-resume-react" target="_blank">click here</a>.</p>
-                                    {/* <p>If you want to see this site built on React/Redux: [<a href="https://marvincyan.github.io/my-resume-react-redux/" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-react-redux" target="_blank">source</a>].</p> */}
+                                    <p>You are currently viewing this site coded in <a href="https://reactjs.org" target="_blank">React.js</a>. If you want to see the source code just <a href="https://github.com/marvincyan/my-resume-react" target="_blank">click here</a>.</p>
+                                    <p>If you want to see this site built on <a href="https://reactjs.org" target="_blank">React</a>/<a href="https://redux.js.org/" target="_blank">Redux</a>: [<a href="https://marvincyan.github.io/my-resume-react-redux/" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-react-redux" target="_blank">source</a>].</p>
                                     <p>If you want to see this site built on <a href="https://wordpress.org/" target="_blank">WordPress</a>: [<a href="http://www.marvinyan.com" target="_blank">website</a>] [<a href="https://github.com/marvincyan/my-resume-wordpress" target="_blank">source</a>].</p>
 
                                     <hr />
